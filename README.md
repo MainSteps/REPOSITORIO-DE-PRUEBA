@@ -1,2 +1,1 @@
-# REPOSITORIO-DE-PRUEBA
-Esto solo es una prueba
+esto es un proyecto de prueba para crear un repositorio y ser clonado
